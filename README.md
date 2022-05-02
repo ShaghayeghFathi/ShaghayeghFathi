@@ -8,12 +8,16 @@
 
 
 ## Languages & Technologies
-<p align="left"><a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img width="50" src="https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java"></a></p>
-<p align="left"><a href="https://cplusplus.com" target="_blank"  rel="noopener noreferrer"><img width="30" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="c++ logo"></a></p>
-<p align="left"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="30" src="https://vuejs.org/images/logo.png" alt="Vue logo”></a></p>
+<p align="center">
+<a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img width="50" src="https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java"></a>
+<a href="https://cplusplus.com" target="_blank"  rel="noopener noreferrer"><img width="50" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="c++ logo"></a>
+<a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="50" src="https://vuejs.org/images/logo.png" alt="Vue logo”></a>
   
-<p align="left"><a href="https://nodejs.org" target="_blank"  rel="noopener noreferrer"><img width="50" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" alt="nodejs logo"></a></p>
-<p align="left"><a href="https://nuxtjs.org" target="_blank"  rel="noopener noreferrer"><img width="30" src="https://d33wubrfki0l68.cloudfront.net/6ff34ec8760318b99888ee4b75d1e265170a84b9/6479c/logos/nuxt.svg" alt="nuxtjs logo"></a></p>
+<a href="https://nodejs.org" target="_blank"  rel="noopener noreferrer"><img width="50" src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="nodejs logo"></a>
+<a href="https://nuxtjs.org" target="_blank"  rel="noopener noreferrer"><img width="50" src="https://d33wubrfki0l68.cloudfront.net/6ff34ec8760318b99888ee4b75d1e265170a84b9/6479c/logos/nuxt.svg" alt="nuxtjs logo"></a>
+<a href="https://go.dev" target="_blank" rel="noopener noreferrer"><img width="50" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="golang logo"></a>
+ </p>
+  
 
   
   
